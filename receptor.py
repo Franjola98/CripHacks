@@ -25,9 +25,6 @@ for t in texto:
         textodescifrado.append(descifrado)
     i+=1
 
-
-print(textodescifrado)
-
 textodescifradol=[]
 for num in textodescifrado:
     textodescifradol.append(caracteres[num])
